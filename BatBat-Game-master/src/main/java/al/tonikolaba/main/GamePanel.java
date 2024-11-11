@@ -61,7 +61,7 @@ public class GamePanel extends JPanel implements Runnable, KeyListener {
 			thread.start();
 		}
 	}
-
+	//init
 	private void init() {
 
 		image = new BufferedImage(WIDTH, HEIGHT, BufferedImage.TYPE_INT_RGB);
