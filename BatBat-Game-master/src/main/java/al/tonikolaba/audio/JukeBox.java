@@ -11,7 +11,7 @@ import javax.sound.sampled.Clip;
 import al.tonikolaba.handlers.LoggingHelper;
 
 /**
- * @author ArtOfSoul
+ * @author Marcelo
  */
 
 public class JukeBox {
